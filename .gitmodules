@@ -1,0 +1,9 @@
+[submodule "ppr-gnn-tf"]
+	path = ppr-gnn-tf
+	url = https://github.com/jackd/ppr-gnn-tf.git
+[submodule "GCNII"]
+	path = GCNII
+	url = https://github.com/jackd/GCNII.git
+[submodule "DeeperGNN"]
+	path = DeeperGNN
+	url = https://github.com/jackd/DeeperGNN.git
